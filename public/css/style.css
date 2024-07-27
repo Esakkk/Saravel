@@ -1,0 +1,22 @@
+@import url('https://cdn-uicons.flaticon.com/2.5.1/uicons-regular-rounded/css/uicons-regular-rounded.css');
+
+
+
+body {
+	background-color: #FCF0e0;
+} 
+* {
+    font-family: "DM Sans";
+}
+
+.bg-ungu {
+	background-color: #3B0ECC;
+}
+
+.menyala {
+	color: #3B0ECC;
+}
+
+.redup {
+	color: #222831;;
+}
